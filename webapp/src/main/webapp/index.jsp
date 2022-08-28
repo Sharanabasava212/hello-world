@@ -16,8 +16,8 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="addr"><b>enter address</b></label>
-    <input type="text" placeholder="Enter address" name="addr" id="addr" required>
+    <label for="addr"><b>Enter Address</b></label>
+    <input type="text" placeholder="Enter Address" name="addr" id="addr" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
